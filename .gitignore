@@ -20,3 +20,6 @@ build.mk
 .objs
 .libs
 .deps
+
+# Output by ./configure
+mk/libusual.pc
